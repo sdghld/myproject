@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sdghld/testVue.git"
+    "url": "git+https://github.com/sdghld/myproject"
   },
   "keywords": [
     "sd830820"
@@ -18,9 +18,9 @@
   "author": "sdghld@163.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sdghld/testVue/issues"
+    "url": "https://github.com/sdghld/myproject/issues"
   },
-  "homepage": "https://github.com/sdghld/testVue#readme",
+  "homepage": "https://github.com/sdghld/myproject#readme",
   "dependencies": {
     "vue": "^1.0.20"
   },
